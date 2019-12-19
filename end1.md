@@ -1,5 +1,5 @@
-You decided not to eat anything and continue on with your day
+You decided not to eat anything.
 
 
 
-End [start over?](home.md)
+End, [start over?](home.md)
